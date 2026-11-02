@@ -1,0 +1,10 @@
+initiative_id,initiative,description,annual_benefit_lakh,investment_lakh
+I1,Digitise branch paperwork,Replace paper account-opening forms with tablet e-forms in every branch. The bank's products and customers stay the same.,120,60
+I2,Merchant payments app,"Launch an app that connects shops (merchants) with bank and non-bank customers; merchants and customers both join, and the bank earns on each transaction.",400,250
+I3,SME cash-flow solution,"Replace standard loan sales with a customised package for each small business — credit line, accounting tools and payments — designed together with the client.",260,150
+I4,Wealth and insurance marketplace,"Enter wealth management and insurance under a new brand, competing with fund houses and insurers the bank has never competed with.",500,600
+I5,Digital cheque clearing,Replace physical cheque movement between branches with digital image clearing.,90,30
+I6,Customer-service chatbot,Answer routine balance and card questions with a chatbot instead of call-centre staff.,70,40
+I7,SME supplier-lender marketplace,"Run a marketplace where SMEs, their suppliers and several lenders meet; the bank owns the marketplace and earns from every side.",350,300
+I8,AI-assisted collections reminders,"Use customer data to time and word reminders for late payments, replacing manual calls.",110,50
+I9,Digital loan journey rebuild,"Rebuild the loan application-to-disbursal workflow end to end: online application, automated checks, digital sign-off.",330,180
